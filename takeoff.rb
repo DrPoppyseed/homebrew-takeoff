@@ -6,6 +6,6 @@ class Takeoff < Formula
   license "MIT"
 
   def install
-    bin.install "src/main.rs"
+    bin.install "target/release/takeoff"
   end
 end
