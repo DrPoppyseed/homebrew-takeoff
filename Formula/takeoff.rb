@@ -2,7 +2,7 @@ class Takeoff < Formula
   desc "Setup Eslint, Prettier, etc... for TS/TSX through an interactive CLI"
   homepage "https://github.com/DrPoppyseed/takeoff"
   url "https://github.com/DrPoppyseed/takeoff/releases/download/v0.1.0-alpha/takeoff.tar.gz"
-  sha256 "bfab273a3755a6551cbb172fa44c3f6d333cdfb779cbabded11d95c81acaacc1"
+  sha256 "bff4b122cc2f70fdcd8179a9ea009a436ee4e68bc7671882558fe939bce7a776"
   license "MIT"
 
   def install
