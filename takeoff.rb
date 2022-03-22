@@ -6,6 +6,6 @@ class Takeoff < Formula
   license "MIT"
 
   def install
-    bin.install "takeoff"
+    bin.install "bin/takeoff"
   end
 end
